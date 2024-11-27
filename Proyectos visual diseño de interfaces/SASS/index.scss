@@ -1,0 +1,35 @@
+$primary_1: #a2b9bc;
+
+main-header {
+    background-color: aqua;
+}
+
+nav {
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    li {
+        display: inline-block;
+    }
+    nav a {
+        display: block;
+        padding: 6px 12px;
+        text-decoration: none;
+    }
+
+    h2 .texto {
+        font: {
+            family: Ink Journal, Ink Free;
+            size: 18px;
+            weight: bold;
+        }
+    
+        text: {
+            align: center;
+            transform: lowercase;
+            overflow: hidden;
+        }
+    }
+}

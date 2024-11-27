@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: darkblue;
+}
+
+#container {
+  width: 680px;
+  border: 1px red double;
+}
+
+/*# sourceMappingURL=variables.css.map */
